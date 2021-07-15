@@ -1,8 +1,11 @@
-# vue-weather-for-task
+# test-weather
 
-## Project setup
+## Установка зависимостей
 ```
 npm install
+```
+```
+npm audit --fix
 ```
 
 ### Compiles and hot-reloads for development
@@ -10,12 +13,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
+### Проверка линтером
 ```
 npm run lint
 ```
