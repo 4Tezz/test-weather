@@ -9,6 +9,7 @@
 
 <script>
 export default {
+  // eslint-disable-next-line
   props: ['icon'],
 };
 </script>

@@ -20,7 +20,7 @@ module.exports = {
     'comma-dangle': [2, 'always-multiline'],
     'comma-style': [2, 'last'],
     curly: [2, 'multi-line'],
-    'eol-last': ["error", "never"],
+    'eol-last': 0,
     eqeqeq: [2, 'allow-null'],
     'func-call-spacing': 2,
     indent: [2, 2],

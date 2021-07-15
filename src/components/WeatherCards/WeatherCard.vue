@@ -60,7 +60,9 @@ import { converterKelvin } from '@/utils/converter.js';
 
 export default {
   props: {
+    // eslint-disable-next-line
     cardValue: Object,
+    // eslint-disable-next-line
     index: Number,
   },
   methods: {

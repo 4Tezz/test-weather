@@ -8,6 +8,7 @@
 import { converterUnix } from '@/utils/converter';
 
 export default {
+  // eslint-disable-next-line
   props: ['time'],
   methods: {
     converterUnix,
