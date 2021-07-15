@@ -237,6 +237,7 @@ export default {
   components: {
     WeatherTimeCard, WeatherIconCard, WeatherTempCard, WeatherWindyCard, WeatherRainCard,
   },
+  // eslint-disable-next-line
   props: ['city'],
   data() {
     return {
