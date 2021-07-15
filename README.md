@@ -8,7 +8,7 @@ npm install
 npm audit --fix
 ```
 
-### Compiles and hot-reloads for development
+### Запуск проэкта 
 ```
 npm run serve
 ```
